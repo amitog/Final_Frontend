@@ -17,7 +17,7 @@ st.markdown(
 )
 
 # API URL - Change if Flask is running on a different machine
-BASE_URL = "http://localhost:5000"
+BASE_URL = "https://final-backend-35fg.onrender.com"
 
 # Title
 st.title("🌱 Fertilizer & Irrigation Monitoring System")
